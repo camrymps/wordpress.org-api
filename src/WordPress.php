@@ -1,6 +1,6 @@
 <?php 
 
-namespace camrymps\WordPressOrgApi;
+namespace WordPressOrgApi;
 
 /**
 *  Class for retrieving information from the WordPress.org API.

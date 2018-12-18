@@ -1,6 +1,6 @@
 <?php
 
-namespace camrymps\WordPressOrgApi;
+namespace WordPressOrgApi;
 
 interface Endpoints
 {
