@@ -15,7 +15,7 @@ use GuzzleHttp\Exception\RequestException;
 *
 */
 
-class HttpClient {
+final class HttpClient {
 
     private $guzzle;
     private $return_assoc;
