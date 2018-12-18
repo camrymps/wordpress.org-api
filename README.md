@@ -18,7 +18,7 @@ Getting Started
 -----
 
 ```php
-use camrymps/WordpressOrgAPI/WordPress as WordPressClient;
+use WordPressOrgApi\WordPress as WordPressClient;
 
 $client = new WordPressClient;
 $client = new WordPressClient(true); // Returns all responses as associative arrays (optional)
