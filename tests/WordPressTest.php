@@ -1,7 +1,7 @@
 <?php 
 
 use PHPUnit\Framework\TestCase;
-use camrymps\WordPressOrgApi\Wordpress as WordPressClient;
+use WordPressOrgApi\Wordpress as WordPressClient;
 
 /**
 * Class for testing WordPress class.
