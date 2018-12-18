@@ -1,15 +1,14 @@
 {
     "name": "camrymps/wordpress.org-api",
+    "type": "library",
     "description": "A client for retrieving information from the WordPress.org API.",
     "keywords": ["wordpress", "client", "promise"],
-    "version": "0.0.1",
     "license": "MIT",
     "authors": [
         {
             "name": "Michael Scott"
         }
     ],
-    "type": "project",
     "require": {
 		"php": ">=7.1",
         "guzzlehttp/guzzle": "~6.0"
@@ -19,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "camrymps\\WordPressOrgApi\\": "src/"
+            "WordPressOrgApi\\": "src/"
         }
     }
 }
